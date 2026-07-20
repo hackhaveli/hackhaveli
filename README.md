@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rohit  <br>🚀 Web & App Developer  <br>🛠️ Building practical tools and scalable products  <br>📚 Continuously learning and improving  <br>🤝 Open to collaboration and new opportunities  <br>⚡ Focused on execution over ideas
+👋 Hi, I'm Rohit  <br>🚀 Web & App Developer  <br>🛠️ Building WebKarigar — AI-powered personalized website outreach for freelancers & agencies.  <br>📚 Continuously learning and improving  <br>🤝 Open to collaboration and new opportunities  <br>⚡ Focused on execution over ideas
 
 
 ## 🌐 Socials:
